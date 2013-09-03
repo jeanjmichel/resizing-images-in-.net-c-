@@ -1,0 +1,10 @@
+C:\Projetos .Net\WorkingWithImages\WorkingWithImages\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos .Net\WorkingWithImages\WorkingWithImages\bin\Debug\WorkingWithImages.exe
+C:\Projetos .Net\WorkingWithImages\WorkingWithImages\bin\Debug\WorkingWithImages.pdb
+C:\Projetos .Net\WorkingWithImages\WorkingWithImages\obj\x86\Debug\WorkingWithImages.exe
+C:\Projetos .Net\WorkingWithImages\WorkingWithImages\obj\x86\Debug\WorkingWithImages.pdb
+C:\Tests .Net\WorkingWithImages\WorkingWithImages\obj\x86\Debug\WorkingWithImages.pdb
+C:\Tests .Net\WorkingWithImages\WorkingWithImages\bin\Debug\WorkingWithImages.exe
+C:\Tests .Net\WorkingWithImages\WorkingWithImages\bin\Debug\WorkingWithImages.pdb
+C:\Tests .Net\WorkingWithImages\WorkingWithImages\obj\x86\Debug\WorkingWithImages.csprojResolveAssemblyReference.cache
+C:\Tests .Net\WorkingWithImages\WorkingWithImages\obj\x86\Debug\WorkingWithImages.exe
